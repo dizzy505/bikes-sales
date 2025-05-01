@@ -10,12 +10,12 @@ This project analyzes a bike sales dataset through Excel dan Tableau, following 
 - Manual Rule-Based Prediction
 
 📋 How to Run
-Open bike_sales.xlsx or
-Open this link:
+- Open bike_sales.xlsx or
+- Open this link:
 ```bash
 https://public.tableau.com/views/BikeSalesDashboard_17460906746870/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ```
-Explore the sheets: Data Preparation, Pivot Analysis, Manual Prediction, Dashboard
+- Explore the sheets: Data Preparation, Pivot Analysis, Manual Prediction, Dashboard
 
 ✨ Key Insights
 - Identified customer demographics most likely to purchase bikes.
